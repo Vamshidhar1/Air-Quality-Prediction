@@ -10,3 +10,8 @@
 
 • If you are searching for _Code, __Algorithms used_ and _Accuracy_ of the model...Click the link given below:
 link:"https://github.com/Vamshidhar1/Air-Quality-Prediction/blob/main/AQI.ipynb"
+
+• For complete project files to deploy this model.link below:
+Link:"https://github.com/Vamshidhar1/Air-Quality-Prediction"
+
+•  Please do ⭐ the repository, if it helped you in anyway.
