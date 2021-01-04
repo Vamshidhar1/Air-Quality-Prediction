@@ -1,4 +1,6 @@
 # Air Quality Prediction
 
-![Kaggle](https://img.shields.io/badge/Dataset-Kaggle-blue.svg) ![Python 3.7.6](https://img.shields.io/badge/Python-3.7-red.svg) 
+• Air is a natural virtue on earth which sustains life. Monitoring its quality is important to our lives.
+
+• The main __objective__ of this project is to predict the air quality using past dataset.
 
