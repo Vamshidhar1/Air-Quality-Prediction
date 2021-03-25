@@ -8,6 +8,8 @@
 
 • This repository consists of files required to deploy a _ML Model_ to predict Air Quality and Web app which is __created with Flask__.<br>
 
+•  If you want to view the deployed model, click on the following link: https://ml-aqi.herokuapp.com/
+
 • If you are searching for _Code, __Algorithms used_ and _Accuracy_ of the model...Click the link given below:
 link:"https://github.com/Vamshidhar1/Air-Quality-Prediction/blob/main/AQI.ipynb"
 
